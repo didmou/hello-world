@@ -6,3 +6,4 @@ J'ai enlevé le fichier readme.md dans la branch readme-edits... puis remis... p
 Voilà j'ai plusieurs versions que je vais essayer de voir... 
 Didier M. 
 une modification Didier B.
+J'ai fait une modification il y a 30min mais je la vois plus...26.10 10h34 maintenant DB
